@@ -1,0 +1,15 @@
+Presence,Temperature,Humidity,Time,Decision
+yes,85,85,1630,on
+no,80,90,1650,off
+no,83,78,1630,off
+yes,70,96,1820,on
+no,68,80,1723,off
+yes,65,70,1650,on
+yes,64,65,1612,on
+yes,72,95,1739,on
+yes,69,70,1720,on
+yes,75,80,1740,on
+no,75,70,1720,off
+yes,72,90,1730,on
+no,81,75,1652,off
+yes,71,80,1623,on
